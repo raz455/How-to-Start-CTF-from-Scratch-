@@ -20,7 +20,7 @@
 <pre>
 5. Programming Language(Basic C/C++) and Python Scripting Language.
 6. Basics Understanding of Cryptography(Encryption/Decryption).
-7. Knowledge of Binary, HexaDecimal, ASCII, hexdump Representation.
+7. Knowledge of Binary, HexaDecimal, ASCII, Hexdump and Others Representation.
 </pre>
 
 
@@ -30,11 +30,26 @@ Capture The Flag(CTF) is a special kind of Security Competitions. There are Thre
  1) Jeopardy
  2) Attack and Defence CTF
  3) Mixed CTF
-In CTF Basically Flag is Special String which have to find for points.
+In CTF Basically Flag is Special kind of String which have to find for points.
 </pre>
 
 [Refer Source of Above](https://ctftime.org/ctf-wtf/)<br>
- 
+
+
+
+<h3>Different Categories of CTF Challenges</h3>
+
+1. Binary Explotation
+   * pwn
+2. Reversing
+3. Web
+4. Forensic
+   * Stegnography
+5. Miscellaneous
+6. OS
+   * Linux
+7. RecOn/Scripting
+  
 
 
 
