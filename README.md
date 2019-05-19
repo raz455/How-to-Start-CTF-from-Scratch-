@@ -8,14 +8,14 @@
 2. Basics of Operating System(Mainly Linux OS and Shell)
 </pre>
 
-[Refer Link](https://medium.freecodecamp.org/a-beginners-guide-to-surviving-in-the-linux-shell-cda0f5a0698c) 
+[Linux Basic Commands](https://medium.freecodecamp.org/a-beginners-guide-to-surviving-in-the-linux-shell-cda0f5a0698c) 
 
 <pre>
 3. Moderate Debugging Skills.
 4. Basics of Networking and Computer Security.
 </pre>
 
-[Refer Link](https://www.cisco.com/c/en_in/solutions/small-business/resource-center/networking/networking-basics.html)
+[Networking Basics](https://www.cisco.com/c/en_in/solutions/small-business/resource-center/networking/networking-basics.html)
 
 <pre>
 5. Programming Language(Basic C/C++) and Python Scripting Language.
@@ -50,7 +50,7 @@ In CTF Basically Flag is Special kind of "STrinG" which have to find for points.
    * Linux
 7. RecOn/Scripting<br>
 
-[Refer Link](https://www.youtube.com/watch?v=8ev9ZX9J45A)<br>
+[LiveOverFlow Video](https://www.youtube.com/watch?v=8ev9ZX9J45A)<br>
 
 
 <h3>1.Binary Exploitation</h3>
