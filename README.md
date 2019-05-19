@@ -33,7 +33,7 @@ Capture The Flag(CTF) is a special kind of Security Competitions. There are Thre
 In CTF Basically Flag is Special kind of "STrinG" which have to find for points.
 </pre>
 
-[Refer Source of Above](https://ctftime.org/ctf-wtf/)<br>
+[CTFTime](https://ctftime.org/ctf-wtf/)<br>
 
 
 
@@ -131,19 +131,19 @@ Reverse Engineering in a CTF is typically the process of taking a compiled (mach
   
 <pre><h3 align="center">Below Are Useful Links of Platforms For Beginners's CTF Challenges Practice</h3></pre>
 
-1. [H](https://hackthissite.org/)
-2. [HA](http://overthewire.org/wargames/)
-3. [HAC](https://www.hackthebox.eu/)
-4. [HACK](https://www.vulnhub.com/)
-5. [HACK-T](https://pentesterlab.com/)
-6. [HACK-TH](https://www.hackthis.co.uk/)<br>
-7. [HACK-THE](https://shellterlabs.com/pt/)<br>
-8. [HACK-THE-P](https://www.root-me.org/)<br>
-9. [HACK-THE-PL](https://www.zenk-security.com/epreuves.php)<br>
-10. [HACK-THE-PLA](https://w3challs.com/)<br>
-11. [HACK-THE-PLAN](https://www.newbiecontest.org/)<br>
-12. [HACK-THE-PLANE](https://picoctf.com/)<br>
-13. [HACK-THE-PLANET](https://pwnable.kr/play.php)<br>
+1. [HackThisSite](https://hackthissite.org/)
+2. [Overthewire](http://overthewire.org/wargames/)
+3. [HackTheBox](https://www.hackthebox.eu/)
+4. [VulnHub](https://www.vulnhub.com/)
+5. [PenTesterLab](https://pentesterlab.com/)
+6. [HackThis](https://www.hackthis.co.uk/)<br>
+7. [ShelterLabs](https://shellterlabs.com/pt/)<br>
+8. [rOOtMe](https://www.root-me.org/)<br>
+9. [Zenk](https://www.zenk-security.com/epreuves.php)<br>
+10. [w3challs](https://w3challs.com/)<br>
+11. [newbieContest](https://www.newbiecontest.org/)<br>
+12. [picoCTF](https://picoctf.com/)<br>
+13. [pwnable](https://pwnable.kr/play.php)<br>
 
 
 
