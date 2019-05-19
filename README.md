@@ -53,11 +53,11 @@ In CTF Basically Flag is Special kind of "STrinG" which have to find for points.
 [Refer Link](https://www.youtube.com/watch?v=8ev9ZX9J45A)<br>
 
 
-<h3>1.Binary Explotation</h3>
+<h3>1.Binary Exploitation</h3>
 
    Binary exploitation is the process of subverting a compiled application such that it violates some trust boundary in a way<br> that is advantageous to you, the attacker. In this module we are going to focus on memory corruption. By abusing<br> vulnerabilities that corrupt memory in software we can often rewrite critical application state information in a way that<br>allows us to elevate privileges inside the context of a particular application (like a remote desktop server) or perform arbitrary computation by hijacking control flow and running code of our choosing.<br>
    
-<pre>Folllow Below Links for Binary Explotation</pre>
+<pre>Folllow Below Links for Binary Exploitation</pre>
 
 1. [LiveOverFlow](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 2. [GitHub](https://trailofbits.github.io/ctf/exploits/binary1.html)
@@ -72,7 +72,7 @@ Reverse Engineering in a CTF is typically the process of taking a compiled (mach
 
  Very often the goal of a reverse engineering challenge is to understand the functionality of a given program such that you can identify deeper issues. 
  
-<pre>Folllow Links of Binary Explotation</pre>
+<pre>Folllow Links of Binary Exploitation</pre>
  
  <h3>3.Web</h3>
  
