@@ -8,7 +8,7 @@
 2. Basics of Operating System(Mainly Linux OS and Shell)
 </pre>
 
-[Linux Basic Commands](https://medium.freecodecamp.org/a-beginners-guide-to-surviving-in-the-linux-shell-cda0f5a0698c) 
+[Linux Basic Commands](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) 
 
 <pre>
 3. Moderate Debugging Skills.
